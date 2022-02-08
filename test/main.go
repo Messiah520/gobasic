@@ -11,3 +11,5 @@ func main() {
 	slice := strings.Split(str, ",")
 	fmt.Println("slice: ", slice)
 }
+
+//test
